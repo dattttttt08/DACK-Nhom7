@@ -4,10 +4,9 @@
 Đây là đồ án cuối kỳ môn Front-end của nhóm 7, thực hiện các chức năng như quản lý sách, đăng nhập/đăng ký, và CRUD (Create, Read, Update, Delete) bằng React.
 
 ## Thành viên nhóm
-- Nguyễn Văn A
-- Trần Thị B
-- ... (Thêm tên thành viên khác)
-
+- Phạm Quang Dũng
+- Nguyễn Hữu Học
+- Dương Quốc Đạt
 ## Công nghệ sử dụng
 - React
 - Redux
@@ -16,4 +15,13 @@
 - Git
 
 ## Hướng dẫn cài đặt
-1. Clone repository:
+1. Clone repository: git clone https://github.com/dattttttt08/DACK-Nhom7.git
+2. Chuyển vào thư mục dự án: cd DACK-Nhom7
+3. Cài đặt các thư viện: 
+  npm i
+  npm i bootstrap
+  npm i bootstrap-icons
+  npm i react-router-dom
+  npm i json-server
+  npm i axios
+4. Chạy dự án: npm start
