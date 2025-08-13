@@ -24,4 +24,6 @@
   npm i react-router-dom
   npm i json-server
   npm i axios
-4. Chạy dự án: npm start
+4. Chạy dự án: 
+  + Mở terminal -> cd serverapi -> npm start
+  + Mở thêm 1 terminal khác -> npm run dev
