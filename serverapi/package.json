@@ -1,0 +1,17 @@
+{
+  "name": "serverapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "scripts": {
+  "start": "json-server --watch db.json --port 3001"
+}
+}
+

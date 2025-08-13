@@ -1,0 +1,215 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Tiểu Thuyết",
+      "status": "Đang Thảo Luận",
+      "image": "../../src/Img/1984-Book.jpg",
+      "summary": "Tiểu thuyết khắc họa nên khung cảnh thế giới vào năm 1984 giả tưởng, sau chiến tranh hạt nhân toàn cầu, thông qua nhân vật Winston Smith, một cư dân 39 tuổi ở Airstrip One; có tư tưởng chống lại Đảng và Bigbrother (anh cả); mối tình vụng trộm với Julia; bị ngồi tù, tra khảo, tra tấn và cải tạo bởi Thinkpol hay Thought Police của Miniluv."
+    },
+    {
+      "id": "2",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "Phi Hư Cấu",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/Sapiens-Book.png",
+      "summary": "Sapiens là cuốn sách nổi tiếng của Yuval Noah Harari, kể về lịch sử tiến hóa của loài người từ thời tiền sử đến hiện đại, giúp độc giả hiểu sâu sắc về nguồn gốc và sự phát triển của nhân loại."
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Khoa Học Viễn Tưởng",
+      "status": "Đang Thảo Luận",
+      "image": "../../src/Img/Dune-Book.png",
+      "summary": "Dune là một trong những tiểu thuyết khoa học viễn tưởng vĩ đại nhất, kể về cuộc chiến quyền lực, tôn giáo và sinh tồn trên hành tinh sa mạc Arrakis."
+    },
+    {
+      "id": "4",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "category": "Tiểu Sử",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/Educated-Book.png",
+      "summary": "Educated là cuốn tự truyện cảm động của Tara Westover về hành trình vượt qua nghịch cảnh để tự giáo dục và tìm kiếm tri thức, truyền cảm hứng mạnh mẽ cho người đọc."
+    },
+    {
+      "id": "5",
+      "title": "Vũ Trụ",
+      "author": "Carl Sagan",
+      "category": "Khoa Học",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/Univer-Book.png",
+      "summary": "Vũ Trụ (Cosmos) của Carl Sagan là tác phẩm kinh điển về khoa học vũ trụ, giúp người đọc khám phá những bí ẩn của vũ trụ và vai trò của con người trong đó."
+    },
+    {
+      "id": "6",
+      "title": "Lược sử vạn vật",
+      "author": "Bill Bryson",
+      "category": "Khoa Học",
+      "status": "Đang Thảo Luận",
+      "image": "../../src/Img/luoc-su-van-vat-Book.jpg",
+      "summary": "Lược sử vạn vật là cuốn sách khoa học phổ thông nổi tiếng, giải thích các hiện tượng tự nhiên và lịch sử phát triển của vũ trụ một cách hài hước, dễ hiểu."
+    },
+    {
+      "id": "7",
+      "title": "Ai rồi cũng qua - để không Hối Hận",
+      "author": "Đỗ Mạnh Hùng & Đỗ Thùy Dung",
+      "category": "Hướng Nghiệp",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/Ai-roi-cung-qua-Book.jpg",
+      "summary": "Cuốn sách truyền cảm hứng về việc vượt qua khó khăn, thất bại trong cuộc sống để hướng tới thành công và không hối hận với lựa chọn của mình."
+    },
+    {
+      "id": "8",
+      "title": "Chuông nguyện hồn ai",
+      "author": "Ernest Miller Hemingway",
+      "category": "Tiểu Thuyết",
+      "status": "Đang Thảo Luận",
+      "image": "../../src/Img/Chuong-Nguyen-Hon-Ai-Book.png",
+      "summary": "Chuông nguyện hồn ai là tiểu thuyết nổi tiếng của Hemingway, lấy bối cảnh nội chiến Tây Ban Nha, ca ngợi tình yêu, lòng dũng cảm và sự hy sinh."
+    },
+    {
+      "id": "9",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Tiểu Thuyết",
+      "status": "Đang Thảo Luận",
+      "image": "../../src/Img/Pride.jpg",
+      "summary": "Pride and Prejudice (Kiêu hãnh và định kiến) là tiểu thuyết kinh điển của Jane Austen, kể về tình yêu, định kiến và sự trưởng thành của các nhân vật."
+    },
+    {
+      "id": "10",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "category": "Phi Hư Cấu",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/Thinking.jpg",
+      "summary": "Thinking, Fast and Slow là tác phẩm nổi tiếng của Daniel Kahneman về hai hệ thống tư duy của con người, giúp hiểu rõ hơn về cách chúng ta ra quyết định."
+    },
+    {
+      "id": "14",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Tiểu Thuyết",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/sach1.jpg",
+      "summary": "The Great Gatsby là tiểu thuyết nổi tiếng về sự xa hoa, tình yêu và bi kịch trong xã hội Mỹ những năm 1920."
+    },
+    {
+      "id": "15",
+      "title": "Seven Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "category": "Kỹ Năng Sống",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/sevenlogo.jpg",
+      "summary": "Cuốn sách kinh điển về phát triển bản thân, giúp bạn xây dựng thói quen tốt để thành công trong cuộc sống và công việc."
+    },
+    {
+      "id": "16",
+      "title": "Pride",
+      "author": "Ibi Zoboi",
+      "category": "Tiểu Thuyết",
+      "status": "Đang Thảo Luận",
+      "image": "../../src/Img/Pride.jpg",
+      "summary": "Pride là phiên bản hiện đại của Kiêu hãnh và Định kiến, kể về tình yêu và bản sắc trong cộng đồng người Mỹ gốc Phi."
+    },
+    {
+      "id": "17",
+      "title": "Book of Thinking",
+      "author": "John Doe",
+      "category": "Tư Duy",
+      "status": "Đã Hoàn Thành",
+      "image": "../../src/Img/Thinking.jpg",
+      "summary": "Cuốn sách giúp bạn phát triển tư duy phản biện và sáng tạo trong học tập và công việc."
+    }
+  ],
+  "users": [
+    {
+      "id": "5b3f",
+      "name": "fdsghdsfgh",
+      "email": "da4383061@gmail.com",
+      "password": "123456456",
+      "role": "user",
+      "favorites": [],
+      "readBooks": []
+    },
+    {
+      "id": "92d8",
+      "name": "Chó Hoàng",
+      "email": "da4383060@gmail.com",
+      "password": "123456456",
+      "role": "admin",
+      "favorites": [
+        "3"
+      ],
+      "readBooks": []
+    },
+    {
+      "id": "2816",
+      "username": "datdq240347",
+      "email": "da4383063@gmail.com",
+      "password": "123456456",
+      "role": "admin",
+      "favorites": [],
+      "readBooks": []
+    },
+    {
+      "id": "2817",
+      "name": "Siêu cấp Chó Hoàng",
+      "email": "chohung123456456@gmail.com",
+      "password": "123456456",
+      "role": "admin",
+      "favorites": [],
+      "readBooks": []
+    },
+    {
+      "id": "2818",
+      "name": "Hoàng Ngooo",
+      "email": "hoang123@gmail.com",
+      "password": "123456",
+      "favorites": [],
+      "readBooks": []
+    },
+    {
+      "id": "2819",
+      "name": "Hoàng Khunggggggggg",
+      "email": "hoang1234@gmail.com",
+      "password": "12345667",
+      "favorites": [
+        "3"
+      ],
+      "readBooks": []
+    },
+    {
+      "id": "2821",
+      "name": "dungpq24",
+      "email": "phamtruongsao@yahoo.com.vn",
+      "password": "123",
+      "favorites": [
+        "3"
+      ],
+      "readBooks": []
+    },
+    {
+      "id": "2820",
+      "name": "hocnh24",
+      "email": "vangyama@gmail.com",
+      "password": "hocdf111",
+      "role": "admin",
+      "favorites": [],
+      "readBooks": []
+    },
+    {
+      "id": "2821",
+      "name": "clone",
+      "email": "vangyamaclone001@gmail.com",
+      "password": "hocdf111",
+      "favorites": [],
+      "readBooks": []
+    }
+  ]
+}
